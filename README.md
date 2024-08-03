@@ -1,4 +1,4 @@
-# Shotwell tag metadata migrator
+# Shotwell Tag And Metadata Migrator
 
 This software is provided WITHOUT WARRANTY OF ANY KIND
 
